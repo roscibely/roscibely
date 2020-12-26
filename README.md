@@ -4,6 +4,8 @@
    🧠 Seeking knowledge all the time
    
    My current research interests lie in developing optimal/learning control algorithms for nonlinear dynamic;
+   
+![](https://github.com/roscibely/roscibely/blob/master/giphy.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roscibely&layout=compact)](https://github.com/roscibely)
 
