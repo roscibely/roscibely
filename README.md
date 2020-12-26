@@ -3,9 +3,9 @@
 
    🧠 Seeking knowledge all the time
    
-   An inquisitive learner, on a path to explore tech and AI;
+   👩‍💻 An inquisitive learner, on a path to explore tech and AI;
    
-   My current research interests lie in developing optimal/learning control algorithms for nonlinear dynamic;
+   🚀 My current research interests lie in developing optimal/learning control algorithms for nonlinear dynamic;
    
 
    
