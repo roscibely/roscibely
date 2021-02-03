@@ -1,5 +1,5 @@
 
-<img align="left" src="https://github.com/roscibely/roscibely/blob/master/giphy.gif" width="80" height="200>
+<img align="left" src="https://github.com/roscibely/roscibely/blob/master/giphy.gif" width="80" height="200">
 
 ### Hi there 🖖
 
