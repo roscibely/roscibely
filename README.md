@@ -1,5 +1,9 @@
-### Hello! 🖖
 
+<img align="left" src="https://github.com/roscibely/roscibely/blob/master/giphy.gif">
+
+### Hi there 🖖
+
+**More About Me**:
 
    🧠 Seeking knowledge all the time
    
@@ -7,9 +11,10 @@
    
    🚀 My current research interests lie in developing optimal/learning control algorithms for nonlinear dynamic;
    
+**Contact Me**:
 
-   
-![](https://github.com/roscibely/roscibely/blob/master/giphy.gif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rosana-cibely-921a6a113/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosana.rego@ufrn.edu.br)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roscibely&layout=compact)](https://github.com/roscibely)
 
