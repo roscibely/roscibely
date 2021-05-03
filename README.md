@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosanacibely/)
 [![Researchgate](https://img.shields.io/badge/Researchgate-green?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/R_C_B_Rego)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosana.rego@ufrn.edu.br)
-[![Lattes](https://img.shields.io/badge/lattes-blue?style=for-the-badge&logo=lattes&logoColor=white)](http://lattes.cnpq.br/2921962829806332)
+[![Lattes](https://img.shields.io/badge/Lattes-gray?style=for-the-badge&logo=lattes&logoColor=white)](http://lattes.cnpq.br/2921962829806332)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roscibely&layout=compact,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/roscibely)
 
