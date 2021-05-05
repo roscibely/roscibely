@@ -8,7 +8,9 @@
    👩‍💻 🧠 An inquisitive learner, on a path to explore tech and AI;
    
    🚀 My current research interests lie in:
+   
          developing optimal/learning control algorithms for nonlinear dynamic;
+         
          artificial intelligence automation and work; 
    
 **Contact Me**:
