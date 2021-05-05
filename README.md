@@ -9,9 +9,9 @@
    
    🚀 My current research interests lie in:
    
-         developing optimal/learning control algorithms for nonlinear dynamic;
-         
-         artificial intelligence automation and work; 
+   developing optimal/learning control algorithms for nonlinear dynamic;
+   
+   artificial intelligence automation and work; 
    
 **Contact Me**:
 
