@@ -5,21 +5,18 @@
 
 **More About Me**:
    
-   👩‍💻 🧠 An inquisitive learner, on a path to explore tech and AI;
+   - 🧠 An inquisitive learner, on a path to explore tech and artificial intelligence;
    
-   🚀 My current research interests lie in:
+   - 🚀 I’m currently working on development of optimal/learning control algorithms for nonlinear dynamic; 
+
    
-   developing optimal/learning control algorithms for nonlinear dynamic;
-   
-   artificial intelligence automation and work; 
-   
-**Contact Me**:
+**📫 How to reach me**:
 
 [![Researchgate](https://img.shields.io/badge/Researchgate-green?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/R_C_B_Rego)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosana.rego@ufrn.edu.br)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roscibely&layout=compact,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/roscibely)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roscibely&layout=compact,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/roscibely) -->
 
 
 <!--
