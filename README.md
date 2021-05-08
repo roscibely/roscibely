@@ -16,6 +16,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosana.rego@ufrn.edu.br)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roscibely&layout=compact,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/roscibely/github-readme-stats)
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roscibely&layout=compact,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/roscibely) -->
 
 
