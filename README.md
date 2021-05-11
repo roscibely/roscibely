@@ -15,6 +15,7 @@
 [![Researchgate](https://img.shields.io/badge/Researchgate-green?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/R_C_B_Rego)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosana.rego@ufrn.edu.br)
 
+<span id="badgeCont305"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont305&rid=ABE-5334-2020"></script></span> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roscibely&layout=compact)](https://github.com/roscibely/github-readme-stats)
 
