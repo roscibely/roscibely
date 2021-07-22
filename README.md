@@ -1,13 +1,13 @@
 
-<img align="left" src="https://github.com/roscibely/roscibely/blob/master/giphy.gif" width="100" height="200">
+<img align="left" src="https://github.com/roscibely/roscibely/blob/master/giphy.gif" width="100" height="150">
 
 ### Hi there 🖖
 
 **More About Me**:
-   
-   - 🧠 An inquisitive learner, on a path to explore tech and artificial intelligence;
-   
-   - 🚀 I’m currently working on development of optimal/learning control algorithms for nonlinear dynamic; 
+      
+   - 🚀 I’m currently working on development of optimal/learning control algorithms for nonlinear dynamic. 
+   - ⚡ I’m looking to collaborate on some deep learning project. 
+   - 🧠 I'm an inquisitive learner, on a path to explore tech and artificial intelligence.
 
    
 **📫 How to reach me**:
