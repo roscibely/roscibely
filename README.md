@@ -13,6 +13,7 @@
 **📫 How to reach me**:
 
 [![Researchgate](https://img.shields.io/badge/Researchgate-green?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/R_C_B_Rego)
+[![Semanticscholar](https://img.shields.io/badge/Semanticscholar-blue?style=for-the-badge&logo=semanticscholar&logoColor=white)](https://www.semanticscholar.org/author/Rosana-C.-B.-Rego/134671015?sort=pub-date)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosana.rego@ufrn.edu.br)
 
 
