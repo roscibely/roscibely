@@ -2,9 +2,7 @@
 <img align="left" src="https://github.com/roscibely/roscibely/blob/master/giphy.gif" width="100" height="150">
 
 ### Hi there 🖖
-
-**More About Me**:
-      
+    
    - 🚀 I’m currently researching on development of optimal/learning control algorithms for nonlinear dynamic.
    - 🔭 I’m currently working on optimization in software development. 
    - 🧠 I'm an inquisitive learner.
