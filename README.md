@@ -5,8 +5,9 @@
 
 **More About Me**:
       
-   - 🚀 I’m currently working on development of optimal/learning control algorithms for nonlinear dynamic.  
-   - 🧠 I'm an inquisitive learner, on a path to explore tech and artificial intelligence.
+   - 🚀 I’m currently researching on development of optimal/learning control algorithms for nonlinear dynamic.
+   - 🔭 I’m currently working on optimization in software development. 
+   - 🧠 I'm an inquisitive learner.
 
    
 **📫 How to reach me**:
