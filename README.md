@@ -1,13 +1,12 @@
 
-<img align="left" src="https://github.com/roscibely/roscibely/blob/master/giphy.gif" width="100" height="150">
+<!--<img align="left" src="https://github.com/roscibely/roscibely/blob/master/giphy.gif" width="100" height="150">-->
 
 ### Hi there 🖖
-    
-   - 🚀 I’m currently researching on development of optimal/learning control algorithms for nonlinear dynamic.
    - 🔭 I’m currently working on optimization in software development. 
    - 🧠 I'm an inquisitive learner.
 
-   
+
+
 **📫 How to reach me**:
 
 [![Researchgate](https://img.shields.io/badge/Researchgate-green?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/R_C_B_Rego)
