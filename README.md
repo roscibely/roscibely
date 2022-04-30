@@ -2,7 +2,7 @@
 <!--<img align="left" src="https://github.com/roscibely/roscibely/blob/master/giphy.gif" width="100" height="150">-->
 
 ### Hi there 🖖
-   - 🔭 I’m currently working on optimization in software development. 
+   - 🔭 I’m currently working as Data Scientist. 
    - 🧠 I'm an inquisitive learner.
 
 
