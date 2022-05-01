@@ -5,7 +5,7 @@
    - 🔭 I’m currently working as Data Scientist. 
    - 🧠 I'm an inquisitive learner.
 
-
+'Think twice, code once!'
 
 **📫 How to reach me**:
 
