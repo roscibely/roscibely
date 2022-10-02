@@ -6,17 +6,35 @@
 
 'Think twice, code once!'
 
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&username=roscibely&hide=jupyter%20notebook,tex" height="170" alt="languages graph"  />
+</div>
+
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roscibely&layout=compact&hide=javascript,html,jupyter%20notebook,processing)](https://github.com/roscibely/github-readme-stats) -->
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roscibely&layout=compact,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/roscibely) -->
+
+
+<!--
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="42" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" width="42" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" width="42" alt="embeddedc logo"  />
+</div>
+-->
+
 **📫 How to reach me**:
 
 [![Researchgate](https://img.shields.io/badge/Researchgate-green?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/R_C_B_Rego)
 [![Semanticscholar](https://img.shields.io/badge/Semanticscholar-blue?style=for-the-badge&logo=semanticscholar&logoColor=white)](https://www.semanticscholar.org/author/Rosana-C.-B.-Rego/134671015?sort=pub-date)
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roscibely&layout=compact&hide=javascript,html,jupyter%20notebook,processing)](https://github.com/roscibely/github-readme-stats)
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roscibely&layout=compact,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/roscibely) -->
 
 
 <!--
